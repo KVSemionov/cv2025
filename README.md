@@ -4,4 +4,5 @@
 - [Lesson 2: Vision Transformers](lesson2/)
 - [Lesson 3: Image segmentation](lesson3/)
 - [Lesson 4: Object Detection](lesson4/)
+- [Lesson 5: Keypoints Estimation](lesson5/)
 
